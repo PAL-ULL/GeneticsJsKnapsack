@@ -1,7 +1,9 @@
 import React from "react";
 import { KnapsackParameters } from "../params/KnapsackParams";
 import { AlgorithmParameters } from "../params/AlgorithmParams";
-import { KnapsackItem, NUMBER_OF_DEFAULT_ITEMS } from "../params/KnapsackItem";
+// Line 4:  'NUMBER_OF_DEFAULT_ITEMS' is defined but never used
+// import { KnapsackItem, NUMBER_OF_DEFAULT_ITEMS } from "../params/KnapsackItem";
+import { KnapsackItem } from "../params/KnapsackItem";
 import EvolutionaryAlgorithm, {
   EvolutionaryAlgorithmParams
 } from "genetics-js/lib/lib/algorithms/EvolutionaryAlgorithm";
@@ -19,7 +21,8 @@ import BinaryGenerator, {
 import FitnessProportionalSelection, {
   FitnessProportionalSelectionParams
 } from "genetics-js/lib/lib/selection/base/FitnessProportionalSelection";
-import Generator from "genetics-js/lib/lib/generator/utils/Generator";
+// Never used warning
+// import Generator from "genetics-js/lib/lib/generator/utils/Generator";
 import StochasticUniversalSampling from "genetics-js/lib/lib/selection/implementation/StochasticUniversalSamplingSe";
 import RouletteWheel from "genetics-js/lib/lib/selection/implementation/RouletteWheel";
 import FitnessBased from "genetics-js/lib/lib/selection/replacement/FitnessBased";

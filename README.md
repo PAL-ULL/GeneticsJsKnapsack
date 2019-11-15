@@ -1,3 +1,10 @@
+## Deployments
+
+* [Deployment at PAL-ULL](https://pal-ull.github.io/GeneticsJsKnapsack/)
+* [Original Cristian Abrante deployment](https://cristianabrante.github.io/GeneticsJsKnapsack/)
+
+## Create React App
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts

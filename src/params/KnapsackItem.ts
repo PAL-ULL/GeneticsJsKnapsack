@@ -1,7 +1,8 @@
 import * as yup from "yup";
-import Generator from "genetics-js/lib/lib/generator/utils/Generator";
-import { NumericRange } from "genetics-js";
-import { DEFAULT_CAPACITY } from "./KnapsackParams";
+// Never used variables
+// import Generator from "genetics-js/lib/lib/generator/utils/Generator";
+// import { NumericRange } from "genetics-js";
+// import { DEFAULT_CAPACITY } from "./KnapsackParams";
 
 export const NUMBER_OF_DEFAULT_ITEMS = 7;
 export const DEFAULT_MAX_VALUE = 100.0;
