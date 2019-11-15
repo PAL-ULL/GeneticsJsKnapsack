@@ -1,7 +1,19 @@
+# Web application for solving the **knapsack problem** using a *genetic algorithm*, provided by [GeneticsJS](https://github.com/CristianAbrante/GeneticsJS).
+
 ## Deployments
+
+You can test the webpage here:
 
 * [Deployment at PAL-ULL](https://pal-ull.github.io/GeneticsJsKnapsack/)
 * [Original Cristian Abrante deployment](https://cristianabrante.github.io/GeneticsJsKnapsack/)
+
+## Screenshots
+
+![screenshot](https://github.com/CristianAbrante/GeneticsJsKnapsack/blob/master/assets/geneticknapsack.gif?raw=true)
+
+## Check out the web!
+The web is deployed and tested on Chrome.
+
 
 ## Create React App
 
@@ -49,3 +61,7 @@ You don’t have to ever use `eject`. The curated feature set is suitable for sm
 You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
 
 To learn React, check out the [React documentation](https://reactjs.org/).
+
+## Authors
+
+* **Cristian Abrante** - [CristianAbrante](https://github.com/CristianAbrante) 2019 
