@@ -12,8 +12,8 @@ You can test the webpage here:
 ![screenshot](https://github.com/CristianAbrante/GeneticsJsKnapsack/blob/master/assets/geneticknapsack.gif?raw=true)
 
 ## Check out the web!
-The web is deployed and tested on Chrome.
 
+The [web is deployed](https://pal-ull.github.io/GeneticsJsKnapsack/) here
 
 ## Create React App
 
